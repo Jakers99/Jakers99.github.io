@@ -1,0 +1,29 @@
+
+  .red-text {
+    color: red;
+  }
+
+  h2 {
+    font-family: Lobster, monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+
+  .thick-black-border {
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+    
+  }
+
+head {
+	font-size: 30px;
+	font-weight: bold;
+		}
+
+  .silver-background {
+    background-color: silver;
+  }
