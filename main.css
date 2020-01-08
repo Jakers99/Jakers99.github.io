@@ -1,7 +1,12 @@
 
   .red-text {
     color: red;
-  }
+ body
+	  {
+		  background-color:gray;
+		  color:black;
+	  }
+}
 
   h2 {
     font-family: Lobster, monospace;
