@@ -33,7 +33,7 @@ head {
   .silver-background {
     background-color: silver;
   }
-title {
+#name {
 	font-size:35px;
 	font-weight: bold;
 }
